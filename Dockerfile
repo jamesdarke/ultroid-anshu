@@ -9,5 +9,5 @@ RUN pip3 install av --no-binary av
 # changing workdir
 WORKDIR /root/TeamUltroid/
 
-# start the bot
+# start the bot1
 CMD ["bash", "startup"]
